@@ -9,7 +9,10 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-
+@property(strong,nonatomic)NSArray* arr;
+@property(strong,nonatomic)NSArray* arr2;
+@property(strong,nonatomic)NSArray* arr3;
+@property(strong,nonatomic)NSArray* arr4;
 @end
 
 @implementation AppDelegate
